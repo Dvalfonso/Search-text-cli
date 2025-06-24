@@ -1,6 +1,9 @@
 [package]
-name = "grrs"
+name = "Searchtextcli"
 version = "0.1.0"
+authors = ["David Alfonso davidalfonsook@gmail.com"]
+license = "MIT OR Apache-2.0"
+description = "A grep clone"
 edition = "2024"
 
 [dependencies]
