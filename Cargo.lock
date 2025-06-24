@@ -3,15 +3,6 @@
 version = 4
 
 [[package]]
-name = "Searchtextcli"
-version = "0.1.0"
-dependencies = [
- "anyhow",
- "clap",
- "indicatif",
-]
-
-[[package]]
 name = "anstream"
 version = "0.6.19"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -231,6 +222,15 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "1885c039570dc00dcb4ff087a89e185fd56bae234ddc7f056a945bf36467248d"
 dependencies = [
  "proc-macro2",
+]
+
+[[package]]
+name = "search-text-cli"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "clap",
+ "indicatif",
 ]
 
 [[package]]

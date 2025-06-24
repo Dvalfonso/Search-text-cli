@@ -1,5 +1,5 @@
 [package]
-name = "Searchtextcli"
+name = "search-text-cli"
 version = "0.1.0"
 authors = ["David Alfonso davidalfonsook@gmail.com"]
 license = "MIT OR Apache-2.0"
